@@ -1,0 +1,2 @@
+# sensitiveword
+sensitive word filter
